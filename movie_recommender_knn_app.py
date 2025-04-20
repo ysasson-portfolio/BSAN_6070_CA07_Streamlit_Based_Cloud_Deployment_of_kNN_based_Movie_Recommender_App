@@ -3,6 +3,7 @@ import pickle
 import sklearn as sk
 import numpy as np
 import pandas as pd
+from sklearn.neighbors import NearestNeighbors
 
 #Load the Saved Model
 with open("movie_recommender.sav", 'rb') as file:
