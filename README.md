@@ -16,6 +16,7 @@
 * NearestNeighbors (function from Scikit Learn Neighbors library) (Version 1.6.1)
 * Python (Version 3.13.3)
 * Pickle (which is a part of Scikit Learn)
+* Streamlit (Version 1.44.1
 
 ## Data Set and the Source
 
