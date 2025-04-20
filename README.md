@@ -31,7 +31,7 @@
 ### Google CoLab
 ### Microsoft Visual Code Studio
 ### Streamlit.io
-### Text Editor
+### Any Text Editor
 
 
 ## Installation
