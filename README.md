@@ -10,8 +10,8 @@
 
 ## Necessary Libraries and Versions
 
-* Numpy (Version 1.18.0)
-* Pandas (Version 2.2.3)
+* Numpy (Version 2.0.2)
+* Pandas (Version 2.2.2)
 * Scikit Learn (Version 1.6.1)
 * NearestNeighbors (function from Scikit Learn Neighbors library) (Version 1.6.1)
 * Python (Version 3.13.3)
